@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Abigail Kemp's Portfolio
 
-You can use the [editor on GitHub](https://github.com/kempabigail/kempabigail.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Experienced and Certified Marketing Manager with a demonstrated history of working in the Marketing and Advertising Industry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Skilled with building, implementing, defining and driving strategic national, and international, digital marketing strategies - with a diverse portfolio of B2B and B2C campaigns for clients across many different industries.
 
-### Markdown
+Strong administrative professional with certifications focused on Business, Marketing, and Communications.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My key specialties include:
+◻️ Pay-per-click advertising
+◻️ Social media marketing
+◻️ Email marketing
+◻️ SEO strategies
+◻️ Digital creative content
+◻️ Digital marketing strategy & consulting
+◻️ Video Production & Multimedia
 
-```markdown
-Syntax highlighted code block
+I strive to succeed in my given fields. Specializing in, and having a passion for digital marketing and content creation.
 
-# Header 1
-## Header 2
-### Header 3
+My goals are to develop, perfect and continue to educate myself on current and prospective marketing and content techniques, which can be useful for business ROI and KPI measurements. All to achieve tailored, quantifiable results that have a lasting impact on business growth through sales, engagement and or, website traffic.
 
-- Bulleted
-- List
+### Contact Information
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kempabigail/kempabigail.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+kempabigail@icloud.com
