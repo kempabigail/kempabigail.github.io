@@ -17,7 +17,7 @@
 .nav-sticky.navbar-custom .navbar-nav li a:hover,
 .nav-sticky.navbar-custom .navbar-nav li a:active 
 {
-  color: #ff9800;
+  color: #ef4251;
 }
 
 .bg-custom,
@@ -40,7 +40,7 @@
 .container-filter li a.active,
 .footer .social-icons li a:hover
 {
-	background: #ff9800;
+	background: #ef4251;
 }
 
 .btn-custom,
@@ -65,13 +65,13 @@
 .open > .dropdown-toggle.btn-outline,
 .container-filter li a.active,
 .container-filter li a:hover{
-	border: 1px solid #ff9800;
+	border: 1px solid #ef4251;
 }
 
 .testimonial{
-    border-top: 3px solid #ff9800;
+    border-top: 3px solid #ef4251;
 }
 
 .footer .social-icons li a:hover{
-	border-color: #ff9800;
+	border-color: #ef4251;
 }
