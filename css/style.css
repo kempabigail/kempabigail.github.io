@@ -275,7 +275,7 @@ p {
 
 .bg-home {
     position: relative;
-    background-image: url(https://via.placeholder.com/2000X1333//88929f/5a6270C/O%20https://placeholder.com/);
+    background-image: url(../images/abbie-london-night.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center center;
@@ -391,7 +391,7 @@ p {
 
 .about-img img {
     max-width: 200px;
-    border: 5px solid #fff;
+    border: 0px solid #fff;
     box-shadow: 1px 9px 31px -15px black;
 }
 
@@ -585,7 +585,7 @@ p {
 
 .bg-counter{
     position: relative;
-    background-image: url(https://via.placeholder.com/2000X1333//88929f/5a6270C/O%20https://placeholder.com/);
+    background-image: url(https://kempabigail.github.io/images/abbie-phone.png);
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
