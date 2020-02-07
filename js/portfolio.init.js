@@ -3,7 +3,7 @@ $(window).on('load', function() {
     var $container = $('.projects-wrapper');
     var $filter = $('#filter');
     $container.isotope({
-        filter: '*',
+        filter: 'top',
         layoutMode: 'masonry',
         animationOptions: {
             duration: 750,
